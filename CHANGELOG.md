@@ -1,4 +1,8 @@
 
+## [1.1.6] - [2019/03/10]
+
+ * Fix findRenderObject is null
+
 ## [1.1.5] - [2019/03/10]
 
  * Fix findRenderObject is null
